@@ -31,12 +31,12 @@ class App2 extends React.Component {
   }
   componentWillMount(){
     const firebaseConfig = {
-      apiKey: "AIzaSyA_xcy32pi1abYXvmzCtBxGPjyCbOvzaj8",
-      authDomain: "volo-bb314.firebaseapp.com",
-      databaseURL: "https://volo-bb314.firebaseio.com",
-      projectId: "volo-bb314",
-      storageBucket: "volo-bb314.appspot.com",
-      messagingSenderId: "143733022700"
+      apiKey: "redacted",
+      authDomain: "redacted",
+      databaseURL: "redacted",
+      projectId: "redacted",
+      storageBucket: "redacted",
+      messagingSenderId: "redacted"
     };
 
     firebase.initializeApp(firebaseConfig);
